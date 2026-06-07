@@ -4,5 +4,5 @@ function revealJoke() {
 
 function submitJoke() {
     const userJoke = document.getElementById("userJoke").value;
-    alert(`Thank you for your joke: ${userJoke}`);
+    alert(`Really thank you for your joke: ${userJoke}`);
 }
